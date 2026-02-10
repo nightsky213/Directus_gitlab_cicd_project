@@ -1,0 +1,1 @@
+# Directus_gitlab_cicd_project
